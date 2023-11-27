@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Comic Neue', sans-serif;
-    background: url('/static/images/comics-background.jpg') no-repeat center center fixed;
+    background: url('/static/images/comic-background.jpg') no-repeat center center fixed;
     background-size: cover;
     margin: 0;
     padding: 20px;
